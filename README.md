@@ -9,19 +9,19 @@ Consider the following scheme:
    <img src="images/pipeline.svg" />
 </p>
 
-1. Preprocessing.
+1. [Preprocessing.](data_preparation.ipynb)
    - cleaning
    - missing values handling
    - feature encoding
    - feature generation
    - feature selection
 
-2. Skewness; outliers detection.
+2. [Skewness; outliers detection.](skewness_and_outliers.ipynb)
    - basic Exploratory Data Analysis
    - transformations of features
    - outliers detection and removing
 
-3. Model selection and validation.
+3. [Model selection and validation.](training_and_model_selection.ipynb )
    - cross-validation
    - plotting *learning curve* for detecting underfitting or overfitting
    - hyperparameters tuning
