@@ -1,6 +1,2 @@
-.Rproj.user
-*.csv
 .ipynb_checkpoints/
 __pycache__/
-analysis_in_R/
-plots_normalized/
