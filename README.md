@@ -2,14 +2,16 @@
 
 Predictive model for competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) on Kaggle.
 
+Prerequisites: ```numpy, pandas, scikit-learn, scipy```. Also you need to have ```Jupyter Notebook, matplotlib, seaborn``` installed, if you want to run Jyputer notebooks on your machine.
+
 The project consists of two parts:
 
 1. **Analysis in Jupyter Notebooks**. The whole process of making decisions, set up for reading.
 2. **Code**. Structured and clean code, performs all computations and generates predictions. To execute it on your local machine, clone the repository and sequentially run two scripts:
 
    ```
-    python main.py
-    python train_main.py
+    python3 main.py
+    python3 train_main.py
     ```
    
 
